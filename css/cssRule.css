@@ -70,11 +70,12 @@ nav a:hover {
 }
 .titleGreenLine {
     width: 10%;
-    height: 1px;
+    height: 2px;
+	margin-left: 45%;
 }
 .titleGreenLine2 {
     width: 20%;
-    height: 1px;
+    height: 2px;
 	text-align: left;
 }
 .green {
