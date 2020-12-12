@@ -76,7 +76,8 @@ nav a:hover {
 .titleGreenLine2 {
     width: 20%;
     height: 2px;
-	text-align: left;
+    text-align: left;
+    background-repeat: no-repeat;
 }
 .green {
     color: #26B54D;
@@ -93,12 +94,14 @@ article {
 	margin-bottom: 13%;
 }
 .featured {
-	width: 42%;
-	margin-right: 0%;
-	margin-left: 6%;
-	float: left;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size: 22px;
+    width: 42%;
+    margin-right: 0%;
+    margin-left: 6%;
+    float: left;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 22px;
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
 }
 .featured2 {
 	width: 42%;
