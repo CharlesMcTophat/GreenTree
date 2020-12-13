@@ -77,10 +77,15 @@ nav a:hover {
     width: 20%;
     height: 2px;
     text-align: left;
-    background-repeat: no-repeat;
+	
 }
 .green {
     color: #26B54D;
+}
+
+.shadow {
+	-webkit-box-shadow: 12px 12px 20px #1C2B16;
+    box-shadow: 12px 12px 20px #1C2B16;
 }
 #1 {
     color: #FFFFFF;
@@ -89,9 +94,9 @@ article {
 	padding-top: 5%;
 }
 #greentree-image img{
-	width:95%;
-	height: 70%;
-	margin-bottom: 13%;
+    width: 95%;
+    height: 70%;
+    margin-bottom: 13%;
 }
 .featured {
     width: 42%;
